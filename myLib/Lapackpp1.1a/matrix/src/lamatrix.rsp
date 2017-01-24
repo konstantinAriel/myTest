@@ -1,0 +1,22 @@
++bmd.obj &
++gmd.obj &
++gmf.obj &
++gmi.obj &
++gmc.obj &
++lavd.obj &
++lavi.obj &
++ltgmd.obj &
++spdbmd.obj &
++spdmd.obj &
++spdtrmd.obj &
++sybmd.obj &
++symd.obj &
++sytrmd.obj &
++trmd.obj &
++ultgmd.obj &
++utgmd.obj &
++uutgmd.obj &
++vd.obj &
++vf.obj &
++vi.obj &
++vc.obj
